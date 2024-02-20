@@ -2,3 +2,4 @@ Buah :
 1. Apel
 2. Jeruk
 3. Durian
+4. Pisang
