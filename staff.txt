@@ -7,4 +7,9 @@ Staff PeTIK :
 1. Ucup
 2. Asep
 3. Kasep
+<<<<<<< HEAD
+>>>>>>> staff
+=======
+4. Samsul
+
 >>>>>>> staff
