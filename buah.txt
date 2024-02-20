@@ -3,3 +3,5 @@ Buah :
 2. Jeruk
 3. Durian
 4. Pisang
+5. rambutan
+6. Kiwi
