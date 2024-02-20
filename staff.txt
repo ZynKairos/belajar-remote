@@ -1,4 +1,10 @@
 Staff PeTIK :
+<<<<<<< HEAD
 1. Agung
 2. David
 3. Jaya
+=======
+1. Ucup
+2. Asep
+3. Kasep
+>>>>>>> staff
