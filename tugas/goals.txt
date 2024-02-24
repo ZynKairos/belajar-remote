@@ -1,0 +1,6 @@
+Pencapaian di 2024 
+- Sudah bisa HTML
+- Sudah bisa bootstrap
+- PHP masih sekitar 70%
+- Laravel masih sekitar 65%
+- Sudah selesai hafalan tahfidz juz 1 & 30
